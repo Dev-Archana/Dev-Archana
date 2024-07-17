@@ -1,7 +1,7 @@
 ## Hi there 👋
 Yo, I'm a Java Dev based in India. My playground? Web-Services, Microservices, and Spring Security. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀*
 
-<p align="left"> <img src="" alt="Archana" /> </p>
+<p align="left"> <img src="https://github.com/Dev-Archana/Dev-Archana/blob/main/ArchanaGitImage.JPG" alt="Archana" /> </p>
 
 ---
 ⚙️ *Backend:*
