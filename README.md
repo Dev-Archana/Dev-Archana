@@ -18,7 +18,7 @@ Yo, I'm a Java Dev based in India. My playground? Web-Services, Microservices, a
 
 ---
 <a href="https://github.com/Dev-Archana"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Archana&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/Dev-Archana"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Archana&theme=tokyonight&hide_border=true"></a> 
+<a href="https://github.com/Safikul99"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safikul99&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br /><a href="https://github.com/Dev-Archana"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?username=Dev-Archana&theme=tokyonight&hide_border=true"></a>
 <!--
