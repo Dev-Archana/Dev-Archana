@@ -21,7 +21,7 @@ Yo, I'm a Java Dev based in India. My playground? Web-Services, Microservices, a
 <a href="https://github.com/Dev-Archana"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Archana&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br />
-<a href="https://github.com/Dev-Archana"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Archana&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Dev-Archana"><img width="50%"                  src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Archana&theme=tokyonight&hide_border=true"></a>
 <!--
 **Dev-Archana/Dev-Archana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
