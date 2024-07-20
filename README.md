@@ -30,7 +30,7 @@ Yo, I'm a Java Dev based in India. My playground? Web-Services, Microservices, a
 
 
 
-<br/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sm.archana?igsh=MTBrdGlwbXNnMnl4dw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/archana-sm-050a52288/) 
